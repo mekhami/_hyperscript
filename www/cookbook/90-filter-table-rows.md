@@ -7,7 +7,7 @@ You can filter rows from a table:
 ```html
 <table>
   <thead><tr><th><input _="on input
-   show <tbody>tr/> in closest <table/>
+   show < tbody > tr /> in closest <table/>
      when it's textContent.toLowerCase() contains my value.toLowerCase()
   "/></th></tr></thead>
   <tbody style="height:10em;display:block;overflow-y:scroll">
